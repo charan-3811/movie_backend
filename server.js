@@ -8,7 +8,7 @@ const app = express();
 const PORT = process.env.PORT || 4000
 
 const corsOptions = {
-    origin: 'https://movie-frontend-eb76.onrender.com',
+    origin: '*',
 };
 
 app.use(cors(corsOptions));
