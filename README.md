@@ -1,3 +1,5 @@
+This is a backend for movie library web application 
+
 Steps to clone to repository
 step1:
 clone the repository using command "git clone https://github.com/charan-3811/movie_backend"
